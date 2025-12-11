@@ -33,7 +33,7 @@ Includes ticket pricing, photo add-on charges, and a stylish *Red–Black–Gree
 
 ### 1. Clone this repository
 
-git clone https://github.com/PranavNair2007/rollercoaster/
+git clone [https://github.com/PranavNair2007/rollercoaster/](https://github.com/PranavNair2007/rollercoster/blob/main/rollercoster.py)
 2.⁠ ⁠Move into the folder
 bash
 Copy code
